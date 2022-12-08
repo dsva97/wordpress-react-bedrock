@@ -1,0 +1,6 @@
+vendor/
+web/wp
+.env
+.git
+.gitignore
+./**/node_modules/
